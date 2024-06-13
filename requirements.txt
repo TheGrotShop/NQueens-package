@@ -1,0 +1,2 @@
+setuptools==70.0.0
+wolfsoftware.notify==0.1.0
