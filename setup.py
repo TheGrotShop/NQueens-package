@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.NQueens',
-    version='0.1.0',
+    version='0.1.1',
     packages=['wolfsoftware.nqueens'],
     entry_points={
         'console_scripts': [
